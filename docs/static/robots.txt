@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://text-utils.os.globalart.dev/sitemap.xml
+Sitemap: https://www.text-utils.os.globalart.dev/sitemap.xml
