@@ -27,7 +27,7 @@ export const replacePlaceholdersInObject = (obj: unknown, replacements: unknown)
  * @param replacements 
  * @returns 
  */
-export const replacePlaceholdersInStringWithFlatten = (value: string, replacements: unknown) => {
+export const replacePlaceholdersInObjectWithFlatten = (value: string, replacements: unknown) => {
   const flattenVariables = (obj: any, prefix = ''): Record<string, unknown> => {
     return Object.keys(obj).reduce((acc, k) => {
       const pre = prefix.length ? `${prefix}.` : '';
