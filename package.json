@@ -22,7 +22,7 @@
 				"@commitlint/cli": "20.0.0",
 				"@commitlint/config-angular": "20.0.0",
 				"@favware/npm-deprecate": "2.0.0",
-				"@types/node": "24.5.2",
+				"@types/node": "24.6.0",
 				"@typescript-eslint/eslint-plugin": "7.0.0",
 				"@typescript-eslint/parser": "6.21.0",
 				"eslint": "8.57.0",
