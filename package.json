@@ -19,7 +19,7 @@
 				"*.ts": "npm run format"
 		},
 		"devDependencies": {
-				"@commitlint/cli": "20.2.0",
+				"@commitlint/cli": "20.3.0",
 				"@commitlint/config-angular": "20.2.0",
 				"@favware/npm-deprecate": "2.0.0",
 				"@types/node": "25.0.3",
